@@ -6,7 +6,7 @@
   "update_type": "recommended",
   "file_size": "45.2MB",
   "md5_checksum": "a1b2c3d4e5f678901234567890abcdef",
-   "unified_link": "appmarket://details?id=com.lldkj",  // 添加这一行！
+   "unified_link": "appmarket://details?id=com.lldkj",  
   
   "channels": {
     "huawei": {
