@@ -1,0 +1,83 @@
+{
+  "app_name": "中医系统（联络点）",
+  "latest_version": "3.0.3.0",
+  "version_code": 38,
+  "release_date": "2026-02-02",
+  "update_type": "recommended",
+  "file_size": "45.2MB",
+  "md5_checksum": "a1b2c3d4e5f678901234567890abcdef",
+  
+  "unified_link": "appmarket://details?id=com.lldkj",
+  
+  "channels": {
+    "huawei": {
+      "scheme": "appmarket://",
+      "package_name": "com.huawei.appmarket",
+      "download_url": "appmarket://details?id=com.lldkj",
+      "web_url": "https://appgallery.huawei.com/app/C115584905",
+      "version": "3.0.3.0"
+    },
+    "honor": {
+      "scheme": "appmarket://",
+      "package_name": "com.hihonor.appmarket",
+      "download_url": "appmarket://details?id=com.lldkj",
+      "web_url": "https://appgallery.huawei.com/app/C115584905",
+      "version": "3.0.3.0",
+      "note": "荣耀使用华为应用市场"
+    },
+    "oppo": {
+      "scheme": "oppomarket://",
+      "package_name": ["com.oppo.market", "com.heytap.market"],
+      "download_url": "oppomarket://details?packagename=com.lldkj",
+      "web_url": "https://console.oppomobile.com/apps/com.lldkj",
+      "version": "3.0.3.0"
+    },
+    "vivo": {
+      "scheme": "vivomarket://",
+      "package_name": "com.vivo.appstore",
+      "download_url": "vivomarket://details?id=com.lldkj",
+      "web_url": "https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=4054518",
+      "version": "3.0.3.0"
+    },
+    "tencent": {
+      "scheme": "mqqappstore://",
+      "package_name": "com.tencent.android.qqdownloader",
+      "download_url": "mqqappstore://appstore/detail?appid=1112480088",
+      "web_url": "https://sj.qq.com/appdetail/com.lldkj",
+      "version": "3.0.3.0"
+    },
+    "xiaomi": {
+      "scheme": "mimarket://",
+      "package_name": "com.xiaomi.market",
+      "download_url": "mimarket://details?id=com.lldkj",
+      "web_url": "https://app.mi.com/details?id=com.lldkj",
+      "appid": "2882303761520424859",
+      "version": "3.0.3.0"
+    }
+  },
+  
+  "release_notes": {
+    "zh-CN": {
+      "title": "中医系统（联络点）v3.0.3.0 更新",
+      "description": "本次更新包含多项功能优化和问题修复，建议尽快更新以获取更好的使用体验。",
+      "features": [
+        "优化数据同步机制，提升稳定性",
+        "改善界面加载速度，操作更流畅",
+        "修复已知问题，提升使用体验",
+        "适配更多手机型号和系统版本"
+      ],
+      "bug_fixes": [
+        "修复部分手机闪退问题",
+        "修复数据同步失败问题"
+      ]
+    }
+  },
+  
+  "force_update_versions": ["2.0.0", "2.5.0"],
+  "min_required_version": "2.8.0",
+  
+  "metadata": {
+    "config_version": "1.0",
+    "last_updated": "2026-02-04 10:00:00"
+  }
+}
