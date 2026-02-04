@@ -6,7 +6,8 @@
   "update_type": "recommended",
   "file_size": "45.2MB",
   "md5_checksum": "a1b2c3d4e5f678901234567890abcdef",
-   "unified_link": "appmarket://details?id=com.lldkj",  
+  
+  "unified_link": "appmarket://details?id=com.lldkj",
   
   "channels": {
     "huawei": {
@@ -52,19 +53,6 @@
       "web_url": "https://app.mi.com/details?id=com.lldkj",
       "appid": "2882303761520424859",
       "version": "3.0.3.0"
-    },
-    "google_play": {
-      "scheme": "market://",
-      "package_name": "com.android.vending",
-      "download_url": "market://details?id=com.lldkj",
-      "web_url": "https://play.google.com/store/apps/details?id=com.lldkj",
-      "version": "3.0.3.0"
-    },
-    "direct": {
-      "scheme": "https://",
-      "download_url": "https://raw.githubusercontent.com/rollsun/app-update/main/apk/app-v3.0.3.0.apk",
-      "web_url": "https://raw.githubusercontent.com/rollsun/app-update/main/apk/app-v3.0.3.0.apk",
-      "version": "3.0.3.0"
     }
   },
   
@@ -87,7 +75,6 @@
   
   "force_update_versions": ["2.0.0", "2.5.0"],
   "min_required_version": "2.8.0",
-  "unified_link": "appmarket://details?id=com.lldkj",
   
   "metadata": {
     "config_version": "1.0",
